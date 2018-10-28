@@ -1,0 +1,1 @@
+require('jupyter-js-auto-test').setAndRun(__dirname);
