@@ -1,0 +1,23 @@
+{
+  "name": "prim_maze_generator",
+  "version": "0.0.1",
+  "description": "Maze generater based on Prim's algorithm",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node srx/index.js --test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jupiter0806/prim_maze_generator.git"
+  },
+  "keywords": [
+    "prim",
+    "maze"
+  ],
+  "author": "sen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jupiter0806/prim_maze_generator/issues"
+  },
+  "homepage": "https://github.com/Jupiter0806/prim_maze_generator#readme"
+}
